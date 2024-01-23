@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Matteo Salvini: Italian deputy PM takes stand in migrant kidnap trial",
+            "description": "Matteo Salvini said he acted 'in the national interest' by banning a rescue ship from docking in Italy.",
+            "url": "https://www.bbc.co.uk/news/world-europe-67958284",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2345/production/_132292090_gettyimages-1919974116-1.jpg",
+            "publishedAt": "2024-01-12T17:52:15.4800566Z",
+            "content": "Italian Deputy Prime Minister Matteo Salvini has defended his hard-line approach against illegal migration during a court appearance in Sicily. \r\nHe is facing kidnap and dereliction of duty charges f… [+3136 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Record-breaking cold weather forecast for many states in weekend storm",
+            "description": "\"We call it life-threatening for a reason\": Nearly every state on watch for dangerously freezing cold.",
+            "url": "https://www.bbc.co.uk/news/world-us-canada-67947335",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15119/production/_132279268_gettyimages-1920942981.jpg",
+            "publishedAt": "2024-01-12T16:22:20.0892133Z",
+            "content": "A massive winter storm is developing in the US and has been predicted to bring dangerously cold temperatures and severe weather across the weekend.\r\nFrom blizzards and \"large hail\" to thunderstorms a… [+2444 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Aderrien Murry: Audio and video offer clues on shooting of boy, 11, by police",
+            "description": "Police body-camera footage and 911 dispatch tapes offer clues on the May shooting of Aderrien Murry.",
+            "url": "https://www.bbc.co.uk/news/world-us-canada-67959372",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/BFC0/production/_132288094_img_1736_vert-03db35c45af004262c7cee8c7d52e0a49adb852b.jpg",
+            "publishedAt": "2024-01-12T16:07:14.3869826Z",
+            "content": "Attorneys have released 911 dispatch audio tapes that suggest mistakes were made in the lead-up to police shooting an 11-year-old boy in Mississippi.\r\nIt follows last week's release of body camera fo… [+5074 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Cape Verde reaches malaria-free milestone",
+            "description": "The island state becomes the first sub-Saharan country to get rid of the deadly disease in 50 years.",
+            "url": "https://www.bbc.co.uk/news/world-africa-67951537",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14787/production/_132274838_gettyimages-520244482.jpg",
+            "publishedAt": "2024-01-12T15:37:15.0413768Z",
+            "content": "A sub-Saharan African nation has been declared malaria-free for the first time in 50 years.\r\nCape Verde was given the status by the World Health Organization (WHO) as it has not reported a single cas… [+2738 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Strikes on Houthi targets in Yemen could undermine US goal of containing war",
+            "description": "War spreading in the Middle East is not just a risk - it has already happened, writes the BBC's Jeremy Bowen.",
+            "url": "https://www.bbc.co.uk/news/world-middle-east-67955729",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7268/production/_132288292_82b9db8aec50a86c8f49a60d1a13ce3b947bdbcf0_147_4385_24661000x563.jpg",
+            "publishedAt": "2024-01-12T13:22:15.2131426Z",
+            "content": "Media caption, Watch: Fighter jets strike targets in Yemen\r\nIt is time to stop talking about the risk that the war in Gaza will spread elsewhere in the Middle East. It has already happened. Hopes for… [+6490 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Yemen strikes live updates: Houthis vow retaliation after US and UK strike 16 sites",
+            "description": "The US and UK launched strikes targeting military facilities in response to the Houthis' attack on ships in the Red Sea.",
+            "url": "https://www.bbc.co.uk/news/live/world-us-canada-67952029",
+            "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+            "publishedAt": "2024-01-12T11:52:21.1985285Z",
+            "content": "7 Oct - Hamas launches a series of attacks on Israel, killing around 1,200 people and taking an estimated 240 others hostage. Israel retaliates by starting an offensive in Gaza, which Hamas-run autho… [+1045 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Israel says South Africa distorting the truth in ICJ genocide case",
+            "description": "Its lawyer rebuffs South Africa's accusations while defending actions in Gaza at the UN's top court.",
+            "url": "https://www.bbc.co.uk/news/world-middle-east-67944903",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2754/production/_132286001_rtricja7b4da09cafac099d724990817effe88f337bd630_287_5500_30951000x563.jpg",
+            "publishedAt": "2024-01-12T11:07:15.7916844Z",
+            "content": "Israel has said South Africa has distorted the truth in its case to the International Court of Justice, where it is accusing Israel of genocide.\r\nSouth Africa had presented \"a sweeping counter-factua… [+3569 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Can Nikki Haley really stop Donald Trump in 2024?",
+            "description": "She's betting the ex-president is more vulnerable than polls suggest. It’s still a very long shot.",
+            "url": "https://www.bbc.co.uk/news/world-us-canada-67948573",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13EE6/production/_132283618_nhaley2-index-epa.jpg",
+            "publishedAt": "2024-01-12T07:37:12.2109081Z",
+            "content": "Donald Trump remains the prohibitive favourite for the Republican presidential nomination, but Nikki Haley is surging. If the former president shows any signs of weakness when voting begins next week… [+8495 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Huge ring of galaxies challenges thinking on cosmos",
+            "description": "Scientists discover a huge, ring-shaped structure in space which questions our ideas of the universe.",
+            "url": "https://www.bbc.co.uk/news/science-environment-67950749",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/148FA/production/_132281248_figure_2.jpg",
+            "publishedAt": "2024-01-12T03:37:15.2350237Z",
+            "content": "Scientists at the University of Central Lancashire have discovered a gigantic, ring-shaped structure in space.\r\nIt is 1.3bn light-years in diameter and appears to be roughly 15 times the size of the … [+3862 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Donald Trump turns his legal battles into campaign spectacle",
+            "description": "The former president believes his campaign gets a significant boost every time he is seen in court.",
+            "url": "https://www.bbc.co.uk/news/world-us-canada-67953895",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/16DC6/production/_132283639_gettyimages-1918188009.jpg",
+            "publishedAt": "2024-01-12T03:22:12.3126336Z",
+            "content": "Media caption, Watch: The biggest takeaways from Trumps fraud trial in 82 seconds\r\nAppearing in court in New York at the end of the civil fraud case against the Trump Organization on Thursday, Donald… [+5947 chars]"
+        }
+    ]
+}
